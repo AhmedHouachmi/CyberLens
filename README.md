@@ -5,9 +5,7 @@ CyberLens is a lightweight Security Operations Center (SOC) platform designed to
 
 -Features:
 Real-time log ingestion
-
 Centralized security event management
-
 Interactive dashboard and charts
 Attack detection and severity classification
 Log filtering and search
